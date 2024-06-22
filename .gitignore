@@ -1,0 +1,15 @@
+.idea/
+db.sqlite3
+venv
+.env
+notes.txt
+__pycache__/
+*.py[cod]
+migrations/
+.DS_Store
+
+**/migrations/**
+!**/migrations
+!**/migrations/__init__.py
+
+dabs/settings/local.py
